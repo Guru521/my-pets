@@ -1,1 +1,1 @@
-[イヌ](dogs/index.md)
+* [イヌ](dogs/index.md)
