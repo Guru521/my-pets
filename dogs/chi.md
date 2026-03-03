@@ -6,6 +6,5 @@
 * 性別: メス
 * 体重: 2kg
 
-* ![ちぃ画像1](images/chi1.jpg)
+* ![ちぃ画像1](images/chi1.png)
 * ![ちぃ画像2](images/chi2.jpg)
-* ![ちぃ画像3](images/chi3.jpg)

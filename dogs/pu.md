@@ -6,6 +6,5 @@
 * 性別: オス
 * 体重: 3.5kg
 
-* ![ぷー助画像1](images/pu1.jpg)
+* ![ぷー助画像1](images/pu1.png)
 * ![ぷー助画像2](images/pu2.jpg)
-* ![ぷー助画像3](images/pu3.jpg)
