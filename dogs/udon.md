@@ -6,5 +6,5 @@
 * 性別: メス
 * 体重: 3.7kg
 
-* ![うどん画像1](images/udon1.png)
+* ![うどん画像1](images/udon1.jpg)
 * ![うどん画像2](images/udon2.jpg)
